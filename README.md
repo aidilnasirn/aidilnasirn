@@ -79,9 +79,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilnasirn&layout=compact&theme=tokyonight" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilnasirn&theme=tokyonight" alt="Streak" />
 </div>
 
 <hr/>
