@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Mobile+App+Developer+(Flutter);UI%2FUX+Graphic+Designer;Creative+Thinker" alt="Typing SVG" />
   
-  <h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME_ANDA">Aidil Nasir</a>! 👋</h1>
+  <h1 align="center">Hi there, I'm <a href="https://github.com/aidilnasirn">Aidil Nasir</a>! 👋</h1>
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding animation">
   
@@ -30,7 +30,7 @@
       <td align="center" width="50%">
         <h3>🚀 Quick Stats</h3>
         <a href="https://github.com/aidilnasirn">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aidilnasirn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         </a>
       </td>
     </tr>
@@ -88,7 +88,7 @@
 
 <div align="center">
   <h3>Let's Connect! 🤝</h3>
-  <a href="mailto:aidilnasir@gmail.com.com">
+  <a href="mailto:aidilputranasir@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- <a href="https://linkedin.com/in/username-linkedin"> -->
