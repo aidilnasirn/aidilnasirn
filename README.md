@@ -98,6 +98,4 @@
   <a href="https://instagram.com/username">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
-  <p><i>"Code is Poetry, Design is Art."</i></p>
 </div>
