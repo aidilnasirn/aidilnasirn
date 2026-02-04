@@ -88,7 +88,7 @@
 
 <div align="center">
   <h3>Let's Connect! 🤝</h3>
-  <a href="mailto:aidilputranasir@gmail.com.com">
+  <a href="mailto:aidilputranasir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- <a href="https://linkedin.com/in/username-linkedin"> -->
