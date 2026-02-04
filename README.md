@@ -25,12 +25,12 @@
         - 🎨 Passionate about: <b>UI/UX Design & Branding</b><br>
         - 🔧 Tools andalan: <b>Laragon, VS Code, Figma</b><br>
         - 💬 Tanya saya tentang: <b>PHP, CodeIgniter 4, MySQL, Design</b><br>
-        - 📫 Hubungi saya: <b>aidilnasir@gmail.com</b>
+        - 📫 Hubungi saya: <b>aidilputranasir@gmail.com</b>
       </td>
       <td align="center" width="50%">
         <h3>🚀 Quick Stats</h3>
         <a href="https://github.com/aidilnasirn">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aidilnasirn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true(https://github-readme-stats.vercel.app/api?username=aidil2026&show_icons=true)"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aidilnasirn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aidil's GitHub Stats"/>
         </a>
       </td>
     </tr>
@@ -72,7 +72,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=xampp&logoColor=white" alt="Laragon" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=xampp&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </div>
 
@@ -91,10 +92,10 @@
   <a href="mailto:aidilputranasir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- <a href="https://linkedin.com/in/username-linkedin"> -->
+  <a href="https://linkedin.com/in/username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://instagram.com/username-ig"> -->
+  <a href="https://instagram.com/username">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
